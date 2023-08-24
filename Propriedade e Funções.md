@@ -7,5 +7,5 @@
 console.log(carro.modelo);
 console.log(carro.acelerar);
 carro.acelerar();
-
+p
 ```
